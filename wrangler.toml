@@ -5,7 +5,7 @@ compatibility_date = "2024-06-14"
 compatibility_flags = ["nodejs_compat"]
 
 routes = [
-    { pattern = "rabbit.rossiter.dev", custom_domain = true }
+    { pattern = "unsalad.rossiter.dev", custom_domain = true }
 ]
 
 # Automatically place your workloads in an optimal location to minimize latency.
