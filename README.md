@@ -72,8 +72,7 @@ In case of an error, the API will return a JSON response with the appropriate HT
 
 ## Contact
 
-For further assistance, please contact our support team at [support@example.com](mailto:support@example.com).
-
+For further assistance, please contact me on 𝕏: https://x.com/davidwrossiter
 ---
 
 End of Documentation.
