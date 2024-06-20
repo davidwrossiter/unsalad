@@ -3,8 +3,8 @@ import { Bindings } from '../app';
 
 const chunk = new Hono<{ Bindings: Bindings }>();
 
-chunk.get('/', (c) => {
-	return c.json({ response: 'Hello this is BIG CHUNKKKK' });
+chunk.post('/', (c) => {
+	return c.json({ response: 'Hello this is the BIG CHUNKKKK' });
 });
 
 export { chunk };
